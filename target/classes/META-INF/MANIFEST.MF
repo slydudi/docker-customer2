@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 15
+Implementation-Title: customer
+Implementation-Version: 0.0.1-SNAPSHOT
+Main-Class: sd.springboot.CustomerApplication
+Created-By: Maven Integration for Eclipse
+
